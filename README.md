@@ -1,16 +1,15 @@
-### Hi there 👋
+### Ygor Rebouças — @nuzrub
 
-<!--
-**nuzrub/nuzrub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Ygor! I am a Computer Scientist from Fortaleza-Brazil passsionate about computing theory, programming languages, music, computer graphics and artificial intelligence. I am currently working on the Traf: Suits of Fate game, as lead developer, and as a Data Science specialist on two healthcare research projects. On my spare time, I write my discoveries and opinions on Medium.
 
-Here are some ideas to get you started:
+Check my lastest posts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/2" alt="Recent Article 2"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/3" alt="Recent Article 3"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ygorrebouasserpa/4" alt="Recent Article 4"> 
